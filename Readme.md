@@ -1,9 +1,9 @@
 ## A simple project to show how to reducing docker image throw multi-stage builds
 
-### Build comamnd:
+### Build comamnd from Dockerfile:
 
-docker buil -t <user_name/><tag_name> .
+docker build -t <user_name/><tag_name> .
 
-### Run command:
+### Run command from public repository:
 
 docker run nervado/codeeducation
