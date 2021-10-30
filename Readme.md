@@ -1,9 +1,9 @@
-# A simple project to show how to reducing docker image throw multi-stage builds
+## A simple project to show how to reducing docker image throw multi-stage builds
 
-## Build comamnd:
+### Build comamnd:
 
 docker buil -t <user_name/><tag_name> .
 
-## Run command:
+### Run command:
 
 docker run nervado/codeeducation
